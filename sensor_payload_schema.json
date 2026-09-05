@@ -1,0 +1,17 @@
+{
+  "device_id": "sensor_node_7B",
+  "timestamp": 1732898400,
+  "location": "field_north",
+  "soil_moisture": 350,
+  "light_intensity": 720,
+  "npk_level": 410,
+  "temperature": 22.3,
+  "humidity": 64.8,
+  "status_flags": {
+    "soil_valid": true,
+    "light_valid": true,
+    "npk_valid": true,
+    "temp_valid": true,
+    "humidity_valid": true
+  }
+}
